@@ -148,7 +148,7 @@ php artisan key:generate
 Buat database MySQL dengan nama:
 
 ```sql
-CREATE DATABASE menu_kantin_2401020154;
+CREATE DATABASE menu_kantin_NIM;
 ```
 
 Sesuaikan konfigurasi berikut pada file `.env`:
@@ -157,7 +157,7 @@ Sesuaikan konfigurasi berikut pada file `.env`:
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=menu_kantin_2401020154
+DB_DATABASE=menu_kantin_NIM
 DB_USERNAME=root
 DB_PASSWORD=
 ```
